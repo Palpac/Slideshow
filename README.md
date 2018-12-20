@@ -9,4 +9,7 @@ Right to left swipe gestures : 	https://stackoverflow.com/questions/4139288/andr
 TimerTask : http://android-er.blogspot.com/2013/12/example-of-using-timer-and-timertask-on.html
 Zoom : https://github.com/MikeOrtiz/TouchImageView
 
+Minimum API 16
+Android Studio
+
 Palpac_Prod_2018
