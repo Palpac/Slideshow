@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Slideshow</string>
+    <string name="help"><b>During slideshow :</b>\nClick picture to start/pause slideshow.\nLong click picture to go to settings.\nSwipe left/right to go to previous/next picture.\nUsual zoom and move effects on picture.\n</string>
+    <string name="settings"><b>Define your settings :</b></string>
+    <string name="delay">Timer delay (seconds) :</string>
+    <string name="delay_value">8</string>
+    <string name="choose_dir">Choose directory</string>
+    <string name="recursive">Recursive</string>
+    <string name="random">Random</string>
+    <string name="rate">Rate app.</string>
+    <string name="donate">Donate</string>
+</resources>
